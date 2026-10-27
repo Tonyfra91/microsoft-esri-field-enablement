@@ -15,7 +15,7 @@ The conversation is bigger than putting maps into Microsoft. It is about bringin
 **business data + operational data + location context** together to answer:
 
 | What is happening?   | Where is it happening?   | Why does location matter?   | What should we do next?      |
-| -------------------- | ------------------------ | --------------------------- | ---------------------------- |
+| :------------------: | :----------------------: | :-------------------------: | :--------------------------: |
 | Understand demand    | See the places involved  | Explore local conditions    | Choose an action to evaluate |
 
 ArcGIS integrations bring location context into Microsoft 365, Microsoft Fabric,

@@ -29,7 +29,7 @@ Curated field guidance, not product documentation.
 
 ### Next step
 
-* Which [catalog candidate](../02-integration-catalog/README.md) merits investigation?
+* Which [Microsoft and Esri integrations](../02-integration-catalog/README.md) should we explore for this customer?
 * What documented evidence and demonstration would help the customer decide?
 * Who owns the next action, and when will the evaluation be reviewed?
 
