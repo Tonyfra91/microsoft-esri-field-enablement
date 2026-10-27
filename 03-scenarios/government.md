@@ -25,7 +25,7 @@ Suggested opening:
 1. Define one decision, its users, and a measurable evaluation goal using the
    [discovery questions](../01-start-here/customer-discovery-questions.md).
 2. If Power BI reporting is relevant, assess
-   [ArcGIS for Power BI](../02-integration-catalog/README.md) as a candidate.
+   [ArcGIS for Power BI](../02-integration-catalog/fabric/power-bi.md) as a candidate.
 3. Review the [official tutorial](../04-demos/README.md), then scope a separate
    demonstration using approved public or synthetic data.
 4. Resolve [architecture questions](../05-architecture/README.md) before proposing a design.
@@ -40,7 +40,7 @@ Suggested opening:
 * Validate availability, licensing, procurement, support, and compliance requirements
   with current official sources and the customer's responsible teams
 
-Government-cloud availability and compliance evidence: Source to be validated.
+Government-cloud availability and compliance evidence: **Needs current-source validation**.
 Do not assume commercial-environment documentation establishes government suitability.
 
 ## Suggested next action

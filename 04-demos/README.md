@@ -14,8 +14,13 @@ validated for this first pass.
 is an official tutorial, not a repository-owned demo or a government reference
 implementation. Source reviewed: 2026-10-27.
 
-Use the [catalog entry](../02-integration-catalog/README.md) to check the associated
+Use the [Power BI catalog entry](../02-integration-catalog/fabric/power-bi.md) to check the associated
 Microsoft and Esri documentation before preparing a demonstration.
+
+For everyday work, start with the
+[Microsoft 365 learning path](https://learn.arcgis.com/en/paths/try-arcgis-for-microsoft/)
+and the [Microsoft 365 seller landing](../02-integration-catalog/microsoft-365/README.md).
+The official path was reviewed 2026-10-27; it is not a tested repository-owned demo.
 
 ## Future demo checklist
 
@@ -28,6 +33,6 @@ Curated field guidance:
 * Remove credentials, tenant identifiers, personal data, and private customer details
 * Label illustrative behavior separately from verified product capabilities
 
-Government demo asset: Source to be validated.
+Government demo asset: **Needs current-source validation**.
 
 Next: [architecture review](../05-architecture/README.md).

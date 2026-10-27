@@ -26,10 +26,15 @@ linked third-party material retains its own terms.
 * Cite authoritative public Microsoft or Esri sources next to technical claims
 * Record the source review date and any version or environment scope
 * Separate documented capabilities from curated recommendations and hypotheses
-* Use "Source to be validated" for pending evidence, not as permission to assert a fact
+* Use "Needs current-source validation" for pending evidence, not as permission to assert a fact
 * Check limitations, availability, and licensing against current official sources
 * Flag conflicting documentation for review instead of resolving it by assumption
 * Use concise GitHub Markdown and relative links for repository navigation
+
+Follow the [source policy](07-resources/source-policy.md),
+[visual asset rules](07-resources/visual-assets.md), and
+[partner sharing rules](07-resources/partner-enablement.md). Public accessibility
+does not establish redistribution permission or approval to publish partner-only content.
 
 ## Contribution workflow
 

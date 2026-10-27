@@ -7,6 +7,10 @@ description: A concise customer conversation flow grounded in public documentati
 
 Curated field guidance, not an official product positioning statement.
 
+Five minutes before a meeting? Use the
+[Seller Quick Start](../01-start-here/seller-quick-start.md) and
+[integration navigator](../README.md#explore-the-integrations).
+
 1. Ask what decision the customer needs to improve and why location matters.
 2. Understand the current workflow with the
    [discovery questions](../01-start-here/customer-discovery-questions.md).
@@ -28,4 +32,6 @@ Do not promise licensing entitlements, deployment availability, compliance,
 roadmap delivery, support arrangements, or commercial outcomes without evidence.
 Do not publish private opportunity details or meeting notes here.
 
-Approved public pitch decks and customer references: Source to be validated.
+Find public learning links and sharing rules in
+[partner enablement](../07-resources/partner-enablement.md).
+Approved public pitch decks and customer references: **Needs current-source validation**.

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title description"
+  content="&lt;mxfile host=&quot;app.diagrams.net&quot;&gt;&lt;diagram id=&quot;customer-conversations&quot; name=&quot;Customer conversations&quot;&gt;&lt;mxGraphModel dx=&quot;960&quot; dy=&quot;620&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;960&quot; pageHeight=&quot;620&quot; background=&quot;#FFFFFF&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;
+  &lt;mxCell id=&quot;heading&quot; value=&quot;Start where your customer works&quot; style=&quot;text;html=0;align=left;verticalAlign=middle;fontFamily=Arial;fontSize=28;fontStyle=1;fontColor=#15354A;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;32&quot; y=&quot;22&quot; width=&quot;896&quot; height=&quot;36&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;subtitle&quot; value=&quot;Choose a familiar workflow, then ask what decision needs to improve.&quot; style=&quot;text;html=0;align=left;fontFamily=Arial;fontSize=16;fontColor=#465B6A;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;32&quot; y=&quot;62&quot; width=&quot;896&quot; height=&quot;24&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;question&quot; value=&quot;Where does your customer work?&quot; style=&quot;rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=#15354A;strokeColor=#15354A;fontColor=#FFFFFF;fontFamily=Arial;fontSize=22;fontStyle=1;spacing=18;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;32&quot; y=&quot;264&quot; width=&quot;226&quot; height=&quot;100&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;work&quot; value=&quot;Everyday work&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#EAF3FA;strokeColor=#93B5CC;fontColor=#15354A;fontFamily=Arial;fontSize=20;fontStyle=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;340&quot; y=&quot;104&quot; width=&quot;230&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;data&quot; value=&quot;Data and reporting&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#EAF3FA;strokeColor=#93B5CC;fontColor=#15354A;fontFamily=Arial;fontSize=20;fontStyle=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;340&quot; y=&quot;194&quot; width=&quot;230&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;process&quot; value=&quot;Business processes&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#EAF3FA;strokeColor=#93B5CC;fontColor=#15354A;fontFamily=Arial;fontSize=20;fontStyle=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;340&quot; y=&quot;284&quot; width=&quot;230&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;infra&quot; value=&quot;GIS infrastructure&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#EAF3FA;strokeColor=#93B5CC;fontColor=#15354A;fontFamily=Arial;fontSize=20;fontStyle=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;340&quot; y=&quot;374&quot; width=&quot;230&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;custom&quot; value=&quot;Custom applications&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#EAF3FA;strokeColor=#93B5CC;fontColor=#15354A;fontFamily=Arial;fontSize=20;fontStyle=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;340&quot; y=&quot;464&quot; width=&quot;230&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;m365&quot; value=&quot;Excel, Teams, SharePoint&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#F4F8FB;strokeColor=#CBD8E2;fontColor=#15354A;fontFamily=Arial;fontSize=19;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;610&quot; y=&quot;104&quot; width=&quot;318&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;fabric&quot; value=&quot;Fabric, Power BI&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#F4F8FB;strokeColor=#CBD8E2;fontColor=#15354A;fontFamily=Arial;fontSize=19;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;610&quot; y=&quot;194&quot; width=&quot;318&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;automate&quot; value=&quot;Power Automate&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#F4F8FB;strokeColor=#CBD8E2;fontColor=#15354A;fontFamily=Arial;fontSize=19;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;610&quot; y=&quot;284&quot; width=&quot;318&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;azure&quot; value=&quot;Azure assessment&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#F4F8FB;strokeColor=#CBD8E2;fontColor=#15354A;fontFamily=Arial;fontSize=19;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;610&quot; y=&quot;374&quot; width=&quot;318&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;dotnet&quot; value=&quot;.NET developer conversation&quot; style=&quot;rounded=1;arcSize=14;whiteSpace=wrap;html=0;fillColor=#F4F8FB;strokeColor=#CBD8E2;fontColor=#15354A;fontFamily=Arial;fontSize=19;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;610&quot; y=&quot;464&quot; width=&quot;318&quot; height=&quot;68&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;trunk&quot; style=&quot;endArrow=none;startArrow=none;strokeColor=#6D8799;strokeWidth=2;&quot; edge=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;258&quot; y=&quot;314&quot; as=&quot;sourcePoint&quot;/&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;314&quot; as=&quot;targetPoint&quot;/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;bus&quot; style=&quot;endArrow=none;startArrow=none;strokeColor=#6D8799;strokeWidth=2;&quot; edge=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;138&quot; as=&quot;sourcePoint&quot;/&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;498&quot; as=&quot;targetPoint&quot;/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;branch-work&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; target=&quot;work&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;138&quot; as=&quot;sourcePoint&quot;/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;branch-data&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; target=&quot;data&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;228&quot; as=&quot;sourcePoint&quot;/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;branch-process&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; target=&quot;process&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;318&quot; as=&quot;sourcePoint&quot;/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;branch-infra&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; target=&quot;infra&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;408&quot; as=&quot;sourcePoint&quot;/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;branch-custom&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; target=&quot;custom&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;498&quot; as=&quot;sourcePoint&quot;/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;link-work&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;work&quot; target=&quot;m365&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;link-data&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;data&quot; target=&quot;fabric&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;link-process&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;process&quot; target=&quot;automate&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;link-infra&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;infra&quot; target=&quot;azure&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;link-custom&quot; style=&quot;endArrow=none;strokeColor=#6D8799;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;custom&quot; target=&quot;dotnet&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;persona-work&quot; value=&quot;Viewer / Contributor&quot; style=&quot;rounded=1;arcSize=100;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD8E2;fontColor=#465B6A;fontFamily=Arial;fontSize=14;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;350&quot; y=&quot;92&quot; width=&quot;210&quot; height=&quot;24&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;persona-data&quot; value=&quot;GIS analysts&quot; style=&quot;rounded=1;arcSize=100;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD8E2;fontColor=#465B6A;fontFamily=Arial;fontSize=14;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;350&quot; y=&quot;182&quot; width=&quot;210&quot; height=&quot;24&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;persona-process&quot; value=&quot;GIS workflow owner*&quot; style=&quot;rounded=1;arcSize=100;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD8E2;fontColor=#465B6A;fontFamily=Arial;fontSize=14;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;350&quot; y=&quot;272&quot; width=&quot;210&quot; height=&quot;24&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;persona-infra&quot; value=&quot;GIS administrator*&quot; style=&quot;rounded=1;arcSize=100;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD8E2;fontColor=#465B6A;fontFamily=Arial;fontSize=14;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;350&quot; y=&quot;362&quot; width=&quot;210&quot; height=&quot;24&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;persona-custom&quot; value=&quot;Developers&quot; style=&quot;rounded=1;arcSize=100;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD8E2;fontColor=#465B6A;fontFamily=Arial;fontSize=14;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;350&quot; y=&quot;452&quot; width=&quot;210&quot; height=&quot;24&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;persona-note&quot; value=&quot;* Inferred GIS persona. Labels are not license recommendations.&quot; style=&quot;text;html=0;align=left;fontFamily=Arial;fontSize=15;fontColor=#465B6A;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;32&quot; y=&quot;538&quot; width=&quot;896&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;mxCell id=&quot;footer&quot; value=&quot;Conversation guide, not a technical architecture. Branches show choices, not data flows.&quot; style=&quot;text;html=0;align=left;fontFamily=Arial;fontSize=15;fontColor=#465B6A;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;32&quot; y=&quot;568&quot; width=&quot;896&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;
+  &lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <title id="title">Start where your customer works</title>
+  <desc id="description">Labels aligned to Esri documentation: Viewer and Contributor are user types for viewing or editing shared content, shown as everyday-work examples; GIS analysts and developers are personas named in Esri user-type guidance. GIS workflow owner and GIS administrator are inferred GIS personas for business processes and Azure infrastructure assessment, marked with an asterisk. These illustrative mappings are not licensing recommendations, technical architecture, or data flows. People may span several workflows.</desc>
+  <rect width="960" height="620" fill="#FFFFFF"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="32" y="49" fill="#15354A" font-size="28" font-weight="700">Start where your customer works</text>
+    <text x="32" y="80" fill="#465B6A" font-size="16">Choose a familiar workflow, then ask what decision needs to improve.</text>
+    <path d="M258 314H300 M300 138V498 M300 138H340 M300 228H340 M300 318H340 M300 408H340 M300 498H340 M570 138H610 M570 228H610 M570 318H610 M570 408H610 M570 498H610" fill="none" stroke="#6D8799" stroke-width="2"/>
+    <rect x="32" y="264" width="226" height="100" rx="12" fill="#15354A"/>
+    <text x="145" y="306" text-anchor="middle" fill="#FFFFFF" font-size="22" font-weight="700">
+      <tspan x="145">Where does your</tspan>
+      <tspan x="145" dy="28">customer work?</tspan>
+    </text>
+    <g fill="#EAF3FA" stroke="#93B5CC">
+      <rect x="340" y="104" width="230" height="68" rx="10"/>
+      <rect x="340" y="194" width="230" height="68" rx="10"/>
+      <rect x="340" y="284" width="230" height="68" rx="10"/>
+      <rect x="340" y="374" width="230" height="68" rx="10"/>
+      <rect x="340" y="464" width="230" height="68" rx="10"/>
+    </g>
+    <g fill="#F4F8FB" stroke="#CBD8E2">
+      <rect x="610" y="104" width="318" height="68" rx="10"/>
+      <rect x="610" y="194" width="318" height="68" rx="10"/>
+      <rect x="610" y="284" width="318" height="68" rx="10"/>
+      <rect x="610" y="374" width="318" height="68" rx="10"/>
+      <rect x="610" y="464" width="318" height="68" rx="10"/>
+    </g>
+    <g fill="#15354A" text-anchor="middle" font-size="20" font-weight="700">
+      <text x="455" y="145">Everyday work</text>
+      <text x="455" y="235">Data and reporting</text>
+      <text x="455" y="325">Business processes</text>
+      <text x="455" y="415">GIS infrastructure</text>
+      <text x="455" y="505">Custom applications</text>
+    </g>
+    <g fill="#15354A" text-anchor="middle" font-size="19">
+      <text x="769" y="145">Excel, Teams, SharePoint</text>
+      <text x="769" y="235">Fabric, Power BI</text>
+      <text x="769" y="325">Power Automate</text>
+      <text x="769" y="415">Azure assessment</text>
+      <text x="769" y="505">.NET developer conversation</text>
+    </g>
+    <g fill="#FFFFFF" stroke="#CBD8E2">
+      <rect x="350" y="92" width="210" height="24" rx="12"/>
+      <rect x="350" y="182" width="210" height="24" rx="12"/>
+      <rect x="350" y="272" width="210" height="24" rx="12"/>
+      <rect x="350" y="362" width="210" height="24" rx="12"/>
+      <rect x="350" y="452" width="210" height="24" rx="12"/>
+    </g>
+    <g fill="#465B6A" text-anchor="middle" font-size="14">
+      <text x="455" y="109">Viewer / Contributor</text>
+      <text x="455" y="199">GIS analysts</text>
+      <text x="455" y="289">GIS workflow owner*</text>
+      <text x="455" y="379">GIS administrator*</text>
+      <text x="455" y="469">Developers</text>
+    </g>
+    <text x="32" y="557" fill="#465B6A" font-size="15">* Inferred GIS persona. Labels are not license recommendations.</text>
+    <text x="32" y="587" fill="#465B6A" font-size="15">Conversation guide, not a technical architecture. Branches show choices, not data flows.</text>
+  </g>
+</svg>

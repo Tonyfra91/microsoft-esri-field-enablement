@@ -5,6 +5,9 @@ description: A customer-first framing for Microsoft and Esri integration discuss
 
 ## Start with the customer outcome
 
+For quick meeting preparation, use the [Seller Quick Start](seller-quick-start.md)
+or the [integration navigator](../README.md#explore-the-integrations).
+
 Curated field guidance: begin with the decision a customer needs to make,
 the people involved, and the role of location in that decision. Then explore
 whether a documented Microsoft + Esri integration fits.
@@ -34,4 +37,4 @@ available through this integration.
 4. Agree on a small evaluation using public or synthetic data.
 5. Validate prerequisites, limitations, and deployment suitability before making commitments.
 
-Additional integration stories: Source to be validated.
+Additional integration stories: **Needs current-source validation**.

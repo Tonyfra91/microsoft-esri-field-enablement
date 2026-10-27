@@ -1,40 +1,37 @@
 ---
 title: Integration Catalog
-description: An initial source-backed Microsoft and Esri integration entry.
+description: Choose a Microsoft and ArcGIS conversation based on where the customer works.
 ---
 
-## Integration catalog
+## Find the customer conversation
 
-This initial catalog is deliberately small. A documented integration is a
-candidate for evaluation, not a recommendation for every customer or environment.
+Start with a workflow your customer recognizes, not a product list to memorize.
+A documented integration is a candidate for evaluation, not a recommendation
+for every customer or environment.
+
+| Customer need                             | Start here                                    | Available starting pages                                                                                    |
+| ----------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Bring location into everyday work         | [Microsoft 365](microsoft-365/README.md)      | [Excel](microsoft-365/excel.md), [Teams](microsoft-365/teams.md), [SharePoint](microsoft-365/sharepoint.md) |
+| Connect location and enterprise analytics | [Fabric](fabric/README.md)                    | [GeoAnalytics](fabric/geoanalytics.md), [Maps](fabric/maps-for-fabric.md), [Power BI](fabric/power-bi.md)   |
+| Automate location-related tasks           | [Power Platform](power-platform/README.md)    | [Power Automate](power-platform/power-automate.md)                                                          |
+| Assess GIS infrastructure                 | [Azure](azure/README.md)                      | [ArcGIS Enterprise](azure/arcgis-enterprise.md), [ArcGIS Pro](azure/arcgis-pro.md)                          |
+| Build a purpose-specific application      | [Developer integrations](developer/README.md) | [Maps SDK for .NET](developer/maps-sdk-dotnet.md)                                                           |
 
 ## ArcGIS for Power BI
 
-### Documented capability
+The original source-backed catalog entry now lives on the
+[Power BI page](fabric/power-bi.md). Its official tutorial, Government example,
+and validation boundaries are preserved there.
 
-ArcGIS for Power BI adds mapping capabilities to Power BI reports and dashboards.
+## Before making a recommendation
 
-Authoritative sources, reviewed 2026-10-27:
+The Microsoft 365 landing experience is developed for sellers; individual
+product pages are concise first-pass starting points. Azure deployment evidence
+is explicitly pending. Page presence does not establish general availability,
+government-cloud support, licensing, or a tested architecture.
 
-* [Microsoft: Create an ArcGIS map in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualizations-arcgis)
-* [Esri: Introduction to ArcGIS for Power BI](https://doc.arcgis.com/en/power-bi/latest/get-started/introduction-to-arcgis-for-power-bi.htm)
-
-### Curated field guidance
-
-Consider this candidate when a customer wants to explore geographic context
-within a Power BI reporting workflow. Confirm the audience, datasets, and
-intended decisions before selecting an evaluation.
-
-* Example conversation: [Government service coverage](../03-scenarios/government.md)
-* Demo starting point: [official tutorial and demo status](../04-demos/README.md)
-* Design follow-up: [architecture review questions](../05-architecture/README.md)
-
-### Validation boundaries
-
-Check the current official documentation for account requirements, licensing,
-administrative settings, sharing restrictions, and other limitations.
-Government-cloud availability and customer-specific compliance suitability:
-Source to be validated. No suitability claim is made here.
+Follow the [source policy](../07-resources/source-policy.md). Use
+**Needs current-source validation** for unresolved evidence.
 
 ## Adding integrations
 
@@ -42,4 +39,6 @@ Add entries only with authoritative public sources for their technical claims.
 Include the customer need, documented capability, source review date, constraints,
 and demo or architecture status. See [CONTRIBUTING](../CONTRIBUTING.md).
 
-Additional integrations: Source to be validated.
+Need a question to open the meeting? Use the
+[Seller Quick Start](../01-start-here/seller-quick-start.md) or return to the
+[integration navigator](../README.md#explore-the-integrations).

@@ -22,4 +22,10 @@ Use the [integration catalog](../02-integration-catalog/README.md) to connect th
 source to a customer conversation. Field guidance is maintained separately from
 the official documentation and must not override it.
 
-Additional Microsoft integration and architecture resources: Source to be validated.
+For automation, see the current
+[Microsoft ArcGIS connector reference](https://learn.microsoft.com/en-us/connectors/arcgis/),
+reviewed 2026-10-27. Confirm the exact connector's regional and licensing limits.
+Follow the [source policy](source-policy.md) and use
+[partner enablement resources](partner-enablement.md) for public learning links.
+
+Additional Microsoft integration and architecture resources: **Needs current-source validation**.

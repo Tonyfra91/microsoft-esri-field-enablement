@@ -6,7 +6,7 @@ description: Design review questions and boundaries for future architecture patt
 ## Architecture guidance
 
 No validated reference architectures or deployable templates are included yet.
-Architecture pattern: Source to be validated.
+Architecture pattern: **Needs current-source validation**.
 
 ## Questions before selecting a pattern
 
