@@ -28,18 +28,22 @@ lists and documents.
 
 ## See it
 
-Use the [get-started walkthrough and product screenshots](https://doc.arcgis.com/en/sharepoint/latest/get-started/get-started-with-arcgis-for-sharepoint.htm)
+Use the [introduction and product guidance](https://doc.esri.com/en/arcgis-sharepoint/latest/get-started/get-started-with-arcgis-for-sharepoint.html)
 on Esri's original page. No image reuse permission is implied.
 
 ## Learn more
 
-* [Esri: Get started with ArcGIS for SharePoint](https://doc.arcgis.com/en/sharepoint/latest/get-started/get-started-with-arcgis-for-sharepoint.htm)
+* [Esri: Introduction to ArcGIS for SharePoint](https://doc.esri.com/en/arcgis-sharepoint/latest/get-started/get-started-with-arcgis-for-sharepoint.html)
 * [Esri: Microsoft 365 product overview](https://www.esri.com/en-us/arcgis/products/arcgis-for-microsoft/arcgis-for-microsoft-365)
 
-Sources reviewed: 2026-10-27. Concise first-pass page, not a tested demo.
+Sources reviewed: 2026-10-30. Concise first-pass page, not a tested demo.
 Check supported SharePoint environments, installation, geographic data preparation,
 and user permissions. Customer-specific suitability: **Needs current-source validation**.
 
 ## Go deeper
 
 [Microsoft 365 conversations](README.md) | [Architecture questions](../../05-architecture/README.md)
+
+For recent changes, see the
+[October 2026 SharePoint update in Relevant blogs](../../07-resources/relevant-blogs.md#start-with-a-customer-conversation).
+Confirm the customer's installed app version before showing release-specific features.

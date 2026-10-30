@@ -29,11 +29,19 @@ Whether it fits a specific customer depends on their requirements and the
 documented product constraints. Do not infer that every ArcGIS capability is
 available through this integration.
 
+## Find a relevant story or product update
+
+Use [Relevant blogs](../07-resources/relevant-blogs.md) for public examples and
+recent reading. Start with the Microsoft 365 workflow example or choose an
+article about the Microsoft tools your customer uses.
+Each entry includes its publication date, why it is useful, and any important
+limitations. Preview announcements are listed separately from other reading.
+
 ## Move from interest to evaluation
 
 1. Use the [discovery questions](customer-discovery-questions.md) to define the need.
 2. Review the [Government example](../03-scenarios/government.md).
-3. Select a candidate from the [integration catalog](../02-integration-catalog/README.md).
+3. Choose a [Microsoft and Esri integration](../02-integration-catalog/README.md) to explore.
 4. Agree on a small evaluation using public or synthetic data.
 5. Validate prerequisites, limitations, and deployment suitability before making commitments.
 

@@ -75,9 +75,13 @@ Authoritative sources reviewed 2026-10-27:
 * [Esri: ArcGIS for Microsoft 365](https://www.esri.com/en-us/arcgis/products/arcgis-for-microsoft/arcgis-for-microsoft-365)
 * [Esri: Get started with ArcGIS for Excel](https://doc.arcgis.com/en/excel/latest/get-started/get-started-with-arcgis-for-excel.htm)
 * [Esri: Introduction to ArcGIS for Teams](https://doc.arcgis.com/en/teams/latest/get-started/introduction-to-arcgis-for-teams.htm)
-* [Esri: Get started with ArcGIS for SharePoint](https://doc.arcgis.com/en/sharepoint/latest/get-started/get-started-with-arcgis-for-sharepoint.htm)
+* [Esri: Introduction to ArcGIS for SharePoint](https://doc.esri.com/en/arcgis-sharepoint/latest/get-started/get-started-with-arcgis-for-sharepoint.html)
 
 The review date records a source check, not a publication date or a tested deployment.
+The SharePoint documentation destination was rechecked on 2026-10-30.
+
+For a workflow example and recent SharePoint release reading, use
+[Relevant blogs](../../07-resources/relevant-blogs.md#start-with-a-customer-conversation).
 
 ## Go deeper
 

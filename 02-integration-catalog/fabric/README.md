@@ -21,6 +21,11 @@ These are different experiences, not interchangeable names. Listing Power BI
 here does not require the customer to adopt Maps or GeoAnalytics.
 Start with the decision, then involve the data platform and GIS owners.
 
+Before an evaluation, check the
+[Maps preview announcement and current-status boundary](maps-for-fabric.md#learn-more)
+and the [GeoAnalytics runtime guidance](geoanalytics.md#learn-more).
+These products do not have a shared availability or support status.
+
 ## Learn more
 
 [Esri: ArcGIS for Microsoft Fabric](https://www.esri.com/en-us/arcgis/products/arcgis-for-microsoft/arcgis-for-microsoft-fabric).

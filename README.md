@@ -66,6 +66,11 @@ this first pass. Other families have concise starting pages, not validated
 implementation guides. Grouping Power BI under Fabric is a navigation choice,
 not a requirement to adopt other Fabric workloads.
 
+Before recommending Maps for Fabric, check its
+[preview announcement and current-status boundary](02-integration-catalog/fabric/maps-for-fabric.md#learn-more).
+For current reading matched to a customer conversation, use
+[Relevant blogs](07-resources/relevant-blogs.md).
+
 | Integration                                                                                     | Microsoft environment    | What it enables                                             | Best conversation starter                                | Go deeper                                                                                      |
 | ----------------------------------------------------------------------------------------------- | ------------------------ | ----------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [ArcGIS for Microsoft 365](02-integration-catalog/microsoft-365/README.md)                      | Excel, Teams, SharePoint | Location context in everyday work                           | "Where do employees already work with location data?"    | [Choose a workflow](02-integration-catalog/microsoft-365/README.md#choose-a-familiar-workflow) |
@@ -109,6 +114,7 @@ Customer need -> Relevant integration -> Official walkthrough -> Specialist revi
 * [Source policy](07-resources/source-policy.md)
 * [Visual asset inventory](07-resources/visual-assets.md)
 * [Partner enablement resources](07-resources/partner-enablement.md)
+* [Relevant blogs and product updates](07-resources/relevant-blogs.md)
 * [Localization](08-localization/README.md)
 
 ## How to read this guidance

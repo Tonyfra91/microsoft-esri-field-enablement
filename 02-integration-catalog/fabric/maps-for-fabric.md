@@ -35,7 +35,13 @@ A selected, tested walkthrough for this repository: **Needs current-source valid
 ## Learn more
 
 [Esri: ArcGIS for Microsoft Fabric](https://www.esri.com/en-us/arcgis/products/arcgis-for-microsoft/arcgis-for-microsoft-fabric).
-Source reviewed: 2026-10-27.
+Source reviewed: 2026-10-30.
+
+Esri [announced public preview on 2025-12-04](https://community.esri.com/discussion/1670323/announcing-arcgis-maps-for-microsoft-fabric-now-in-public-preview).
+That announcement does not establish current general availability, preview
+pricing, or delivery of planned features. Current release status and
+customer-specific availability: **Needs current-source validation**.
+Announcement checked: 2026-10-30.
 
 Concise first-pass page. Confirm workload installation, tenant availability,
 ArcGIS user types, and data access. This is not the Power BI map visual, and it
@@ -44,3 +50,6 @@ does not establish the customer's entitlement to GeoAnalytics.
 ## Go deeper
 
 [Fabric choices](README.md) | [Architecture questions](../../05-architecture/README.md)
+
+Read the [preview article and its limits](../../07-resources/relevant-blogs.md#preview-reading-check-current-status)
+before using it in a customer conversation.

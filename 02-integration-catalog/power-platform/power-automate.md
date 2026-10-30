@@ -37,8 +37,14 @@ A selected, tested end-to-end demo: **Needs current-source validation**.
 
 * [Esri: Get started with ArcGIS Connectors for Power Automate](https://doc.arcgis.com/en/power-automate/latest/get-started/get-started-with-arcgis-connectors-for-power-automate.htm)
 * [Microsoft: ArcGIS connector reference](https://learn.microsoft.com/en-us/connectors/arcgis/)
+* [Esri: Set up the ArcGIS Online connector](https://doc.arcgis.com/en/power-automate/latest/get-started/set-up-the-arcgis-online-arcgis-connector.htm)
 
-Sources reviewed: 2026-10-27. Premium connector, authentication, and environment
+The current ArcGIS Online connector setup documentation describes sign-in and
+API-key authentication. It does not support API-key authentication for triggers,
+Survey123 actions, or the Run a data pipeline action. Confirm the requirements
+for the exact action rather than assuming API keys work for every flow.
+
+Sources reviewed: 2026-10-30. Premium connector, authentication, and environment
 requirements must be checked for the exact connector selected. Do not infer
 government-cloud support from commercial documentation or promise a native
 ArcGIS for Power Apps product.
@@ -46,3 +52,6 @@ ArcGIS for Power Apps product.
 ## Go deeper
 
 [Power Platform scope](README.md) | [Architecture questions](../../05-architecture/README.md)
+
+For release context, see the
+[Power Automate update in Relevant blogs](../../07-resources/relevant-blogs.md#start-with-a-customer-conversation).

@@ -64,6 +64,9 @@ not a validated Azure infrastructure design.
 
 ## Curated field guidance
 
+Use [Relevant blogs](relevant-blogs.md) for dated Esri-authored examples and
+product updates, with separate sections for technical follow-up and previews.
+
 Use this source alongside the [Microsoft documentation](microsoft-resources.md)
 and [integration catalog](../02-integration-catalog/README.md). If documentation
 is unclear or inconsistent, flag the question rather than inventing an answer.

@@ -53,6 +53,10 @@ Check prerequisites first. Show one question with public or synthetic data;
 do not use customer information in this public repository.
 More options: [demo guidance](../04-demos/README.md).
 
+For a customer example or a recent product update, choose one article from
+[Relevant blogs](../07-resources/relevant-blogs.md#start-with-a-customer-conversation).
+The list explains when to use each article and what still needs validation.
+
 ## Who do I involve next
 
 Bring the customer's business owner together with their GIS owner and an Esri
