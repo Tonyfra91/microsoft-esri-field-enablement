@@ -8,6 +8,22 @@ description: Design review questions and boundaries for future architecture patt
 No validated reference architectures or deployable templates are included yet.
 Architecture pattern: **Needs current-source validation**.
 
+## Prepare a technical evaluation
+
+Start with the [technical qualification checklist](technical-qualification.md)
+for data, identity, licensing, environment, sharing, and operational questions.
+Use role-based ownership so the handoff works across countries and organizations.
+
+| Worked example | Starting point | Status |
+|----------------|----------------|--------|
+| [Excel evaluation](excel-evaluation.md) | Spreadsheet rows and a geographic question | Conceptual; not product-tested |
+| [Power BI evaluation](power-bi-evaluation.md) | Local report and a separately reviewed sharing design | Conceptual; not product-tested |
+
+These are evaluation examples, not certified architectures. Each describes
+data boundaries, responsibilities, success criteria, and missing evidence.
+Use the [evaluation template](../06-sales-enablement/meeting-templates.md#evaluation-plan)
+to agree on a decision and review date.
+
 ## Questions before selecting a pattern
 
 Curated field guidance:

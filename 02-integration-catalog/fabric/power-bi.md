@@ -7,6 +7,21 @@ description: Explore geographic context in Power BI reports and dashboards.
 
 ArcGIS for Power BI adds mapping capabilities to Power BI reports and dashboards.
 
+## Conversation card
+
+**30-second explanation:** A report tells you how a measure changes. A
+geographic view can help people ask where it differs and what else they need
+to understand before acting. Start with one report, not a platform redesign.
+
+**Do not promise:** A map explains cause, proves service coverage, or makes
+every report-sharing, embedding, refresh, or account configuration supported.
+
+**Agree on a next step:** Have the report author and GIS owner choose one
+measure and audience. Prepare the
+[five-minute Power BI demo](../../04-demos/power-bi-five-minute-demo.md), then
+review the [evaluation example](../../05-architecture/power-bi-evaluation.md)
+and [technical checklist](../../05-architecture/technical-qualification.md).
+
 ## Why a customer cares
 
 * See how a business measure varies across places
@@ -20,6 +35,8 @@ These are evaluation opportunities, not promised business outcomes.
 > "We have Power BI everywhere."
 
 > "We want to understand service coverage, not only total demand."
+
+> "Our report measures may differ by location."
 
 ## Questions to ask
 

@@ -8,6 +8,20 @@ description: A first-pass seller starting point for spatial analytics at data sc
 ArcGIS GeoAnalytics for Microsoft Fabric brings tools for analyzing location data
 into Fabric analytics workflows.
 
+## Conversation card
+
+**30-second explanation:** Some questions require analyzing geographic
+relationships, not only displaying points. Explore one such question with the
+data engineering and GIS teams, then test it on a representative dataset.
+
+**Do not promise:** Performance or savings without measurement, compatibility
+with an untested runtime, or consumption included in another ArcGIS entitlement.
+
+**Agree on a next step:** Have the data platform owner and GIS analyst define
+one analysis, safe input data, expected output, and a runtime compatibility test.
+Use the [integration comparison](../compare-integrations.md) and
+[technical checklist](../../05-architecture/technical-qualification.md).
+
 ## Why a customer cares
 
 * Ask geographic questions across large datasets
@@ -20,10 +34,12 @@ into Fabric analytics workflows.
 
 > "Our location analysis needs to work at a larger scale."
 
+> "Showing the records on a map does not answer the analysis question."
+
 ## Questions to ask
 
 * Which geographic relationship matters to the business decision?
-* What data volume, freshness, and quality requirements apply?
+* How much data is involved, how often must it update, and how accurate must it be?
 * Who owns the Fabric environment and the GIS data?
 
 ## See it

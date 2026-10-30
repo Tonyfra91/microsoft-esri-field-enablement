@@ -30,6 +30,19 @@ account and partner teams, and partners who know one platform better than the ot
 **Five minutes before a meeting?** Open the
 [Seller Quick Start](01-start-here/seller-quick-start.md).
 
+## Prepare for your role
+
+| If you are preparing to... | Start here |
+|---------------------------|------------|
+| Open a customer conversation | [Quick Start](01-start-here/seller-quick-start.md), then the relevant [product conversation card](02-integration-catalog/README.md) |
+| Demonstrate a familiar workflow | [Excel and Power BI runbooks](04-demos/README.md), with original synthetic data and explicit draft status |
+| Prepare a technical discussion | [Qualification checklist](05-architecture/technical-qualification.md) and [worked evaluation examples](05-architecture/README.md#prepare-a-technical-evaluation) |
+| Agree on the next action | [Follow-up email, technical handoff, and evaluation plan](06-sales-enablement/meeting-templates.md) |
+
+Need a complete example? Follow a [government, asset operations, or site planning
+conversation](03-scenarios/README.md). Unsure which product fits? Use the
+[integration comparisons](02-integration-catalog/compare-integrations.md).
+
 ## Start with the customer
 
 You do not need to memorize the ArcGIS product portfolio. Find out where your
@@ -61,9 +74,9 @@ Use the table below for questions and clickable starting pages.
 ## Explore the integrations
 
 Choose a workflow, then use its page to prepare a question and find official
-learning material. Microsoft 365 has the most developed seller landing page in
-this first pass. Other families have concise starting pages, not validated
-implementation guides. Grouping Power BI under Fabric is a navigation choice,
+learning material. Every individual product page includes a short explanation,
+customer signals, questions, boundaries, and a next step, not a validated
+implementation guide. Grouping Power BI under Fabric is a navigation choice,
 not a requirement to adopt other Fabric workloads.
 
 Before recommending Maps for Fabric, check its
@@ -105,7 +118,8 @@ Customer need -> Relevant integration -> Official walkthrough -> Specialist revi
 * [Seller Quick Start](01-start-here/seller-quick-start.md)
 * [Customer discovery questions](01-start-here/customer-discovery-questions.md)
 * [Integration catalog](02-integration-catalog/README.md)
-* [Government scenario](03-scenarios/government.md)
+* [Government, asset operations, and site planning scenarios](03-scenarios/README.md)
+* [Integration comparisons](02-integration-catalog/compare-integrations.md)
 * [Demos](04-demos/README.md)
 * [Architecture](05-architecture/README.md)
 * [Sales enablement](06-sales-enablement/README.md)
@@ -128,7 +142,9 @@ Customer need -> Relevant integration -> Official walkthrough -> Specialist revi
   or customer commitment. See the [source policy](07-resources/source-policy.md).
 
 The catalog is a starting portfolio, not an exhaustive inventory or a maturity
-certification. No repository-owned demos or validated architectures are included.
+certification. Excel and Power BI demo runbooks are included as drafts;
+neither has been product-tested. Evaluation examples are conceptual, not
+validated reference architectures or deployable templates.
 Source review dates record a documentation check, not a tested deployment.
 AI, agents, MCP, Copilot extensibility, and roadmap concepts are not part of this
 initial navigator. Do not infer commitments or equivalent maturity.

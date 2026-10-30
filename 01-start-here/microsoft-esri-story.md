@@ -40,9 +40,13 @@ limitations. Preview announcements are listed separately from other reading.
 ## Move from interest to evaluation
 
 1. Use the [discovery questions](customer-discovery-questions.md) to define the need.
-2. Review the [Government example](../03-scenarios/government.md).
+2. Choose a [government, asset operations, or site planning example](../03-scenarios/README.md).
 3. Choose a [Microsoft and Esri integration](../02-integration-catalog/README.md) to explore.
-4. Agree on a small evaluation using public or synthetic data.
-5. Validate prerequisites, limitations, and deployment suitability before making commitments.
+4. Prepare an [Excel or Power BI demonstration](../04-demos/README.md) using
+   original synthetic data; the runbooks still require product rehearsal.
+5. Use the [technical checklist](../05-architecture/technical-qualification.md)
+   and [evaluation template](../06-sales-enablement/meeting-templates.md#evaluation-plan)
+   to agree on scope, people, success criteria, and a review date.
 
-Additional integration stories: **Needs current-source validation**.
+These worked examples are hypothetical, not customer references or evidence of
+business outcomes. Current product documentation remains the authority.

@@ -8,6 +8,20 @@ description: A first-pass seller starting point for geographic context in Fabric
 ArcGIS Maps for Microsoft Fabric lets people create maps from Fabric data and
 explore it with geographic context.
 
+## Conversation card
+
+**30-second explanation:** If the team works with data in Fabric, ask what a
+map would add to one of its questions. Explore that workflow separately from
+Power BI reporting or large-scale spatial analysis.
+
+**Do not promise:** Current general availability from an old preview
+announcement, or shared licensing and support with GeoAnalytics.
+
+**Agree on a next step:** Ask the Fabric administrator and GIS owner to verify
+current availability and access for one dataset before planning a walkthrough.
+Use the [integration comparison](../compare-integrations.md) and
+[technical checklist](../../05-architecture/technical-qualification.md).
+
 ## Why a customer cares
 
 * Reveal geographic patterns behind enterprise data
@@ -19,6 +33,8 @@ explore it with geographic context.
 > "We are moving enterprise analytics to Fabric."
 
 > "We want to see our Fabric data on a map."
+
+> "Our analysts need geographic context while exploring Fabric data."
 
 ## Questions to ask
 

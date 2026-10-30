@@ -8,6 +8,20 @@ description: A concise seller starting point for location-aware organizational c
 ArcGIS for SharePoint adds interactive maps and location context to SharePoint
 lists and documents.
 
+## Conversation card
+
+**30-second explanation:** Your team may know the place but struggle to find
+the related information. Explore whether geographic context in SharePoint
+would help people find and interpret the lists or documents they already use.
+
+**Do not promise:** Adding a map changes document permissions, supports every
+SharePoint deployment, or automatically prepares geographic data.
+
+**Agree on a next step:** Ask the content owner, SharePoint administrator, and
+GIS owner to select one permitted list or document set and check access.
+Use the [technical checklist](../../05-architecture/technical-qualification.md)
+and [asset operations example](../../03-scenarios/asset-operations.md).
+
 ## Why a customer cares
 
 * View list records in their geographic setting
@@ -19,6 +33,8 @@ lists and documents.
 > "Our site information is stored in SharePoint lists."
 
 > "People need to find documents by location."
+
+> "Our site records and supporting documents are difficult to connect."
 
 ## Questions to ask
 

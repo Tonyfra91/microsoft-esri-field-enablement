@@ -26,9 +26,12 @@ Suggested opening:
    [discovery questions](../01-start-here/customer-discovery-questions.md).
 2. If Power BI reporting is relevant, assess
    [ArcGIS for Power BI](../02-integration-catalog/fabric/power-bi.md) as a candidate.
-3. Review the [official tutorial](../04-demos/README.md), then scope a separate
-   demonstration using approved public or synthetic data.
-4. Resolve [architecture questions](../05-architecture/README.md) before proposing a design.
+3. Prepare the [draft Power BI runbook](../04-demos/power-bi-five-minute-demo.md)
+   using [original synthetic points](../04-demos/data/README.md).
+   It has not been product-tested and does not model actual service demand.
+4. Review the [Power BI evaluation example](../05-architecture/power-bi-evaluation.md)
+   and [technical checklist](../05-architecture/technical-qualification.md)
+   before proposing a design.
 5. Confirm details in the [Microsoft](../07-resources/microsoft-resources.md)
    and [Esri](../07-resources/esri-resources.md) documentation.
 
@@ -43,9 +46,27 @@ Suggested opening:
 Government-cloud availability and compliance evidence: **Needs current-source validation**.
 Do not assume commercial-environment documentation establishes government suitability.
 
+## Proposed evaluation criteria
+
+| Test | Proposed acceptance criterion | Responsible role |
+|------|-------------------------------|------------------|
+| Sample interpretation | Users identify eight fictional sites and distinguish the North/South groups from actual service areas | Report author and business owner |
+| Numeric accuracy | Report totals match the sample: North 300, South 200, total 500 | Report author |
+| Coverage limits | The team identifies missing population, service boundaries, capacity, and travel information | GIS specialist |
+| Access and suitability | The selected environment and intended viewers have documented support and authorized access before publication | Platform administrator and security team |
+
+These criteria have not been executed. The point map can start a coverage
+discussion but cannot establish coverage or justify investment.
+Pause if required government-cloud evidence or safe data access is unavailable.
+
 ## Suggested next action
 
 Agree on one evaluation question, a safe dataset, an owner, and success criteria.
-For example, ask whether users can interpret service coverage more clearly.
+For example, ask whether users can identify the additional information needed
+to assess service coverage. The service owner defines that question; the report
+author and GIS owner prepare the evaluation and record a review date using the
+[evaluation plan](../06-sales-enablement/meeting-templates.md#evaluation-plan).
 Do not promise cost savings, response-time improvements, or production readiness
 without evidence.
+
+[All scenarios](README.md)

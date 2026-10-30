@@ -10,22 +10,23 @@ Curated field guidance, not product documentation.
 ### Outcomes and users
 
 * What decision or workflow needs to improve?
-* Who creates the information, who consumes it, and who owns the outcome?
+* Who creates the information, who uses it, and who is responsible for the decision?
 * What measurable result would make an evaluation worthwhile?
 
 ### Data and existing tools
 
 * Which Microsoft and Esri products, versions, and environments are in use?
 * Which datasets contain location information, and who owns them?
-* What freshness, accuracy, accessibility, and sharing requirements apply?
+* How often must data update, how accurate must it be, and who needs access?
+* What accessibility and sharing requirements apply?
 * Can an evaluation use public or synthetic data with clear reuse rights?
 
 ### Constraints and suitability
 
 * What identity, access, privacy, security, and data residency requirements apply?
 * Are there public-sector cloud, procurement, or compliance requirements to verify?
-* Who will validate product availability, prerequisites, licensing, and limitations?
-* Who will own operations and support if the evaluation proceeds?
+* Who will check product availability, setup requirements, licensing, and limitations?
+* Who will be responsible for operations and support if the evaluation continues?
 
 ### Next step
 
@@ -35,3 +36,6 @@ Curated field guidance, not product documentation.
 
 Keep customer names, sensitive answers, and private meeting notes outside this
 public repository in an approved system.
+
+Capture the next action with the
+[meeting follow-up and evaluation templates](../06-sales-enablement/meeting-templates.md).

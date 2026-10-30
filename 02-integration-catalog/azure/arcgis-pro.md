@@ -8,6 +8,20 @@ description: Discovery placeholder for GIS desktop infrastructure requirements.
 This conversation assesses Azure infrastructure options for the computing
 experience ArcGIS Pro users need.
 
+## Conversation card
+
+**30-second explanation:** GIS specialists need a responsive workspace close
+to the data and tools they use. Assess the actual desktop workload and supported
+configuration before choosing computing infrastructure.
+
+**Do not promise:** A particular virtual machine size, graphics performance,
+supported desktop design, or included license without current evidence and testing.
+
+**Agree on a next step:** Ask the desktop owner, Azure specialist, and GIS user
+to define representative tasks and measurable responsiveness requirements.
+Use the [technical checklist](../../05-architecture/technical-qualification.md)
+before choosing a configuration to test.
+
 ## Why a customer cares
 
 * Understand how specialists need to access their GIS workspace
@@ -19,6 +33,10 @@ These are assessment goals, not verified deployment capabilities.
 ## Listen for this
 
 > "Our GIS specialists need access to computing in Azure."
+
+> "Our desktop workload needs specific graphics or data access."
+
+> "We need to measure responsiveness before choosing infrastructure."
 
 ## Questions to ask
 

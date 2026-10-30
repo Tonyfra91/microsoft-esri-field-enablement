@@ -8,6 +8,19 @@ description: A first-pass seller starting point for location-aware flows.
 ArcGIS Connectors for Power Automate connect automated workflows to ArcGIS
 services so location-related tasks can become part of a business process.
 
+## Conversation card
+
+**30-second explanation:** Find a repeated location-related step in an
+existing process. Explore whether an ArcGIS connector can support that specific
+step, with the right permissions and an explicit response when it fails.
+
+**Do not promise:** Every action supports API keys, all connectors have the
+same license requirements, or a native ArcGIS for Power Apps product exists.
+
+**Agree on a next step:** Ask the process owner, flow maker, and GIS service
+owner to select one trigger/action pair and define success and failure handling.
+Prepare with the [technical checklist](../../05-architecture/technical-qualification.md).
+
 ## Why a customer cares
 
 * Evaluate automation for repeated location-related steps
@@ -19,6 +32,8 @@ services so location-related tasks can become part of a business process.
 > "Someone manually looks up addresses every time this happens."
 
 > "Our process needs information from GIS."
+
+> "We need to know when a location-related automation fails."
 
 ## Questions to ask
 

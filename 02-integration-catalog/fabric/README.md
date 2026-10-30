@@ -38,6 +38,10 @@ Customer-specific architecture and government-cloud support:
 
 ## Go deeper
 
+[Compare mapping, analytics, and reporting](../compare-integrations.md#compare-fabric-mapping-analytics-and-reporting),
+prepare the [draft Power BI demo](../../04-demos/power-bi-five-minute-demo.md),
+or use the [technical checklist](../../05-architecture/technical-qualification.md).
+
 [Architecture questions](../../05-architecture/README.md) |
 [Full catalog](../README.md) |
 [Seller front door](../../README.md)

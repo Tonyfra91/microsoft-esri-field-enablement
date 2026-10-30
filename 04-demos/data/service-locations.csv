@@ -1,0 +1,9 @@
+SiteID,SiteName,Area,Latitude,Longitude,Requests
+SAM-001,Example site A,North,51.60,-0.20,120
+SAM-002,Example site B,North,51.62,-0.16,80
+SAM-003,Example site C,North,51.64,-0.12,60
+SAM-004,Example site D,North,51.66,-0.08,40
+SAM-005,Example site E,South,51.44,-0.20,90
+SAM-006,Example site F,South,51.46,-0.16,70
+SAM-007,Example site G,South,51.48,-0.12,30
+SAM-008,Example site H,South,51.50,-0.08,10

@@ -8,6 +8,19 @@ description: A concise seller starting point for maps in team collaboration.
 ArcGIS for Teams brings interactive ArcGIS maps and content into Microsoft Teams
 channels and meetings.
 
+## Conversation card
+
+**30-second explanation:** If a discussion depends on places, start with the
+map that colleagues need to understand together. Explore whether bringing that
+content into Teams would help the meeting, rather than introducing another app.
+
+**Do not promise:** Every meeting participant can open private ArcGIS content,
+or installing the app grants additional licenses or permissions.
+
+**Agree on a next step:** Ask the meeting owner, Teams administrator, and GIS
+owner to select one map and verify participant access before a walkthrough.
+Prepare with the [technical checklist](../../05-architecture/technical-qualification.md).
+
 ## Why a customer cares
 
 * Give a team geographic context during a discussion
@@ -19,6 +32,8 @@ channels and meetings.
 > "Our users already live in Teams."
 
 > "People need to discuss the same places together."
+
+> "A static map does not answer our meeting questions."
 
 ## Questions to ask
 

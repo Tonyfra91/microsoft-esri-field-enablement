@@ -85,6 +85,11 @@ For a workflow example and recent SharePoint release reading, use
 
 ## Go deeper
 
+Prepare the [draft Excel demo](../../04-demos/excel-five-minute-demo.md) or
+compare [everyday Microsoft workflows](../compare-integrations.md#compare-everyday-microsoft-workflows).
+The [technical checklist](../../05-architecture/technical-qualification.md)
+covers product-specific setup and access questions.
+
 Prepare with the [Seller Quick Start](../../01-start-here/seller-quick-start.md),
 then hand unresolved requirements to the
 [architecture review](../../05-architecture/README.md).

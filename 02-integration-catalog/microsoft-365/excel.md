@@ -8,6 +8,21 @@ description: A concise seller starting point for spreadsheet data with location.
 ArcGIS for Excel adds interactive ArcGIS mapping to Excel so people can explore
 spreadsheet data geographically without leaving their workbook.
 
+## Conversation card
+
+**30-second explanation:** Your team already works with spreadsheet rows.
+Adding a map can help people relate those records to places and ask a better
+question about the data. Start with one workbook and one decision.
+
+**Do not promise:** A point map proves coverage, every client supports the same
+features, or an account automatically includes analysis and sharing rights.
+
+**Agree on a next step:** Ask the business owner and GIS colleague to choose
+a safe workbook and a question. Prepare the
+[five-minute Excel demo](../../04-demos/excel-five-minute-demo.md), then use the
+[Excel evaluation example](../../05-architecture/excel-evaluation.md) and
+[technical checklist](../../05-architecture/technical-qualification.md).
+
 ## Why a customer cares
 
 * See patterns that are difficult to spot in rows
@@ -19,6 +34,8 @@ spreadsheet data geographically without leaving their workbook.
 > "We have location data in Excel."
 
 > "We compare sites or service areas using spreadsheets."
+
+> "We need colleagues to understand where these records are."
 
 ## Questions to ask
 

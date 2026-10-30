@@ -23,11 +23,21 @@ The original source-backed catalog entry now lives on the
 [Power BI page](fabric/power-bi.md). Its official tutorial, Government example,
 and validation boundaries are preserved there.
 
+## Prepare the conversation
+
+Each individual integration page includes a short explanation, customer signals,
+discovery questions, an example or official learning link, what not to promise,
+and an agreed next step.
+
+Compare [which integration matches the work](compare-integrations.md), including
+Power BI versus Maps for Fabric versus GeoAnalytics. Then use the
+[technical checklist](../05-architecture/technical-qualification.md) and
+[meeting templates](../06-sales-enablement/meeting-templates.md).
+
 ## Before making a recommendation
 
-The Microsoft 365 landing experience is developed for sellers; individual
-product pages are concise first-pass starting points. Azure deployment evidence
-is explicitly pending. Page presence does not establish general availability,
+Product pages are conversation starting points, not deployment instructions.
+Azure deployment evidence is explicitly pending. Page presence does not establish general availability,
 government-cloud support, licensing, or a tested architecture.
 
 Follow the [source policy](../07-resources/source-policy.md). Use

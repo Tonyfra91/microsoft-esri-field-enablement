@@ -29,6 +29,9 @@ hypothesis to evaluate, not a promised result.
 | "We need an application designed around our users."         | [Developer integrations](../02-integration-catalog/developer/README.md)      |
 
 Start with one workflow. You do not need to learn the whole portfolio.
+If the choices seem similar, use the
+[integration comparison](../02-integration-catalog/compare-integrations.md).
+Each product page includes a conversation card and what not to promise.
 
 ## What should I ask my customer
 
@@ -42,12 +45,13 @@ Use the [discovery questions](customer-discovery-questions.md) for a fuller conv
 
 ## What do I show them
 
-For everyday work, open the
-[Microsoft 365 learning path](https://learn.arcgis.com/en/paths/try-arcgis-for-microsoft/)
-and choose the relevant exercise. For reporting, use Microsoft's
-[ArcGIS map in Power BI walkthrough](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualizations-arcgis).
-These are official learning resources, not repository-owned or customer-validated demos.
-Sources reviewed: 2026-10-27.
+For everyday work, prepare the
+[five-minute Excel example](../04-demos/excel-five-minute-demo.md).
+For reporting, prepare the
+[five-minute Power BI example](../04-demos/power-bi-five-minute-demo.md).
+Both include original synthetic data, setup, expected results, and cleanup.
+They are drafted runbooks, not product-tested demos. Rehearse first; setup
+is outside the five-minute presentation.
 
 Check prerequisites first. Show one question with public or synthetic data;
 do not use customer information in this public repository.
@@ -65,7 +69,12 @@ of the relevant Microsoft workload. Add identity, security, cloud, or data
 specialists when the requirements call for them.
 
 Close with one evaluation question, an owner, and a next meeting.
-Use the [architecture questions](../05-architecture/README.md) for that handoff,
+Use the [technical checklist](../05-architecture/technical-qualification.md) for that handoff,
 not as the opening pitch.
+
+Send a [meeting follow-up](../06-sales-enablement/meeting-templates.md) with the
+agreed question, responsible person, success measure, and review date.
+For a complete example, choose a
+[government, asset operations, or site planning conversation](../03-scenarios/README.md).
 
 Back to the [seller front door](../README.md).
